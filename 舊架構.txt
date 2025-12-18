@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="./pj.css">
+</head>
+<body>
+
+<div class="wrap">
+
+    <img src="./img/21江淯審作品集_page-0001.jpg" width="100%" alt="">
+    <img src="./img/21江淯審作品集_page-0002.jpg" width="100%" alt="">
+
+    <!-- 自我介紹 -->
+    <section>
+        <a href="./img/燈箱圖/證照-31.jpg" data-lightbox="01" data-title="證照">
+            <img src="./img/21江淯審作品集_page-0003.jpg" width="100%" alt="">
+        </a>
+    </section>
+
+    <!-- 粉圓豆花（同一組燈箱） -->
+    <section>
+        <a href="./img/燈箱圖/粉圓尬豆花名片.jpg" data-lightbox="02" data-title="名片">
+            <img src="./img/21江淯審作品集_page-0004.jpg" width="100%" alt="">
+        </a>
+
+        <!-- 第二張（只給燈箱用） -->
+        <a href="./img/燈箱圖/產品圖.jpeg" data-lightbox="02" data-title="產品圖"></a>
+    </section>
+
+    <!-- 粉圓豆花2 -->
+    <section>
+        <a href="./img/燈箱圖/菜單練習_工作區域 1.jpg" data-lightbox="03" data-title="產品三折頁">
+            <img src="./img/21江淯審作品集_page-0005.jpg" width="100%" alt="">
+        </a>
+
+        <!-- 第二張（只給燈箱用） -->
+        <a href="./img/燈箱圖/三折頁練習.png" data-lightbox="03" data-title="產品三折頁2"></a>
+    </section>
+
+    <img src="./img/21江淯審作品集_page-0006.jpg" width="100%" alt="">
+    <img src="./img/21江淯審作品集_page-0007.jpg" width="100%" alt="">
+    <img src="./img/21江淯審作品集_page-0008.jpg" width="100%" alt="">
+    <img src="./img/21江淯審作品集_page-0009.jpg" width="100%" alt="">
+    <img src="./img/21江淯審作品集_page-0010.jpg" width="100%" alt="">
+    <img src="./img/21江淯審作品集_page-0011.jpg" width="100%" alt="">
+    <img src="./img/21江淯審作品集_page-0012.jpg" width="100%" alt="">
+    <img src="./img/21江淯審作品集_page-0013.jpg" width="100%" alt="">
+    <img src="./img/21江淯審作品集_page-0014.jpg" width="100%" alt="">
+    <img src="./img/21江淯審作品集_page-0015.jpg" width="100%" alt="">
+    <img src="./img/21江淯審作品集_page-0016.jpg" width="100%" alt="">
+    <img src="./img/21江淯審作品集_page-0017.jpg" width="100%" alt="">
+    <img src="./img/21江淯審作品集_page-0018.jpg" width="100%" alt="">
+
+</div>
+
+<!-- jQuery + Lightbox -->
+<script src="./lightbox/js/lightbox-plus-jquery.js"></script>
+<script src="./lightbox/js/lightbox.js"></script>
+
+</body>
+</html>
